@@ -31,4 +31,3 @@ Clone or download this repository to unlock the secrets of the JS file. Use your
 Summon your coding minions! If you have suggestions, open an issue or cast a pull request spell. Contributions are welcome—let's make this resource a legendary artifact for learners and developers.
 
 Happy coding! 🎉
-```
